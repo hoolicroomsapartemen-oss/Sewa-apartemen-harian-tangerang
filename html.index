@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sewa Apartemen Tangerang Harian</title>
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+<nav class="bg-blue-600 text-white p-4 sticky top-0 z-50 shadow-lg">
+<div class="container mx-auto flex justify-between items-center">
+<h1 class="text-xl font-bold">START FROM 150K</h1>
+
+<a href="https://wa.me/6285167055314"
+class="bg-green-500 px-3 py-1 rounded-lg text-sm font-bold">
+<i class="fa-brands fa-whatsapp"></i> Chat Admin
+</a>
+</div>
+</nav>
+
+<div class="container mx-auto p-4 space-y-8">
+
+<!-- Treepark City -->
+<div class="bg-white rounded-xl shadow-md overflow-hidden">
+
+<div class="swiper mySwiper h-64">
+<div class="swiper-wrapper">
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/GfbJJfWj/IMG-6365.png"
+class="w-full h-full object-cover">
+</div>
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/p6LWjMRP/IMG-6363.png"
+class="w-full h-full object-cover">
+</div>
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/2134yfBP/IMG-6638.jpg"
+class="w-full h-full object-cover">
+</div>
+
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+
+<div class="p-4">
+
+<p class="text-orange-500 text-sm font-semibold">CIKOKOL</p>
+
+<h3 class="text-xl font-bold mb-2">Apartemen Treepark City</h3>
+
+<p class="text-gray-600 mb-4">
+Lokasi strategis dekat Tangcity Mall.<br>
+PEMBAYARAN DI TEMPAT (COD💸)‼️
+</p>
+
+<a href="https://wa.me/6285167055314?text=Halo%20Admin%20saya%20mau%20tanya%20sewa%20Treepark%20City"
+class="flex items-center justify-center gap-2 w-full bg-green-500 hover:bg-green-600 text-white py-3 rounded-xl font-semibold text-lg shadow">
+
+<i class="fa-brands fa-whatsapp"></i>
+Booking Via WhatssApp Admin
+
+</a>
+
+</div>
+</div>
+
+
+<!-- Sky House BSD -->
+<div class="bg-white rounded-xl shadow-md overflow-hidden">
+
+<div class="swiper mySwiper h-64">
+<div class="swiper-wrapper">
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/d4FfKy7n/IMG-6385.jpg"
+class="w-full h-full object-cover">
+</div>
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/7dRJHtY9/IMG-7293.jpg"
+class="w-full h-full object-cover">
+</div>
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/1JTL3XvJ/temp-image-ED9-FB509-0974-4-D34-B77-F-524146-BCA98-A.jpg"
+class="w-full h-full object-cover">
+</div>
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/GNRvb6S/temp-image-312-A0430-8-AAA-453-F-9-CE5-F83-BC8928-C98.jpg"
+class="w-full h-full object-cover">
+</div>
+
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+
+<div class="p-4">
+
+<p class="text-orange-500 text-sm font-semibold">BSD CITY</p>
+
+<h3 class="text-xl font-bold mb-2">Apartemen Sky House BSD</h3>
+
+<p class="text-gray-600 mb-4">
+Samping AEON Mall BSD.<br>
+PEMBAYARAN DI TEMPAT (COD💸)‼️
+</p>
+
+<a href="https://wa.me/6285167055314?text=Halo%20Admin%20saya%20mau%20tanya%20sewa%20Sky%20House%20BSD"
+class="flex items-center justify-center gap-2 w-full bg-green-500 hover:bg-green-600 text-white py-3 rounded-xl font-semibold text-lg shadow">
+
+<i class="fa-brands fa-whatsapp"></i>
+Booking Via WhatsApp Admin
+
+</a>
+
+</div>
+</div>
+
+
+<!-- Collins Boulevard -->
+<div class="bg-white rounded-xl shadow-md overflow-hidden">
+
+<div class="swiper mySwiper h-64">
+<div class="swiper-wrapper">
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/BVJTrpwN/IMG-7313.jpg"
+class="w-full h-full object-cover">
+</div>
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/27XHLdmF/IMG-7314.jpg"
+class="w-full h-full object-cover">
+</div>
+
+<div class="swiper-slide">
+<img src="https://i.ibb.co.com/7tmxJT0t/IMG-7316.jpg"
+class="w-full h-full object-cover">
+</div>
+
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+
+<div class="p-4">
+
+<p class="text-orange-500 text-sm font-semibold">GADING SERPONG</p>
+
+<h3 class="text-xl font-bold mb-2">Apartemen Collins Boulevard</h3>
+
+<p class="text-gray-600 mb-4">
+PROMO SETIAP HARI‼️<br>
+PEMBAYARAN DI TEMPAT (COD💸)‼️
+</p>
+
+<a href="https://wa.me/6285167055314?text=Halo%20Admin%20saya%20mau%20tanya%20sewa%20Collins%20Boulevard"
+class="flex items-center justify-center gap-2 w-full bg-green-500 hover:bg-green-600 text-white py-3 rounded-xl font-semibold text-lg shadow">
+
+<i class="fa-brands fa-whatsapp"></i>
+Booking Via WhatsApp Admin
+
+</a>
+
+</div>
+</div>
+
+
+<footer class="text-center py-10 text-gray-400 text-xs">
+© 2026 LuxeSpace
+</footer>
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+document.querySelectorAll(".mySwiper").forEach((el)=>{
+new Swiper(el,{
+pagination:{
+el:el.querySelector(".swiper-pagination"),
+clickable:true
+},
+autoplay:{
+delay:3000
+},
+loop:true
+});
+});
+</script>
+
+</body>
+</html>
